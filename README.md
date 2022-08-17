@@ -6,4 +6,4 @@ of Linux through the use of a relatively low-level programming language such as 
 Testing of the Work. Etc, among many more concepts. The work consists of 4 modules: Console: 10%, Kernel: 30%, CPU: 30%, Memory+SWAP: 30%.
 
 
-[TP DDS 2022 (2).pdf](https://github.com/JuanCruzReyAlvarez/operatingSystem/files/9364629/TP.DDS.2022.2.pdf)
+[OperatingSystemWork.pdf](https://github.com/JuanCruzReyAlvarez/operatingSystem/files/9364635/OperatingSystemWork.pdf)
