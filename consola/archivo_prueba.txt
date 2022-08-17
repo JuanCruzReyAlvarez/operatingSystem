@@ -1,0 +1,5 @@
+I/O 9000
+NO_OP 5
+I/O 10777
+NO_OP 1 
+EXIT
